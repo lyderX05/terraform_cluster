@@ -4,7 +4,7 @@ This module allow to verify the resource exits if, yes so nothing is created oth
 
 Prerequistes:
 - Need to azure cli install in terraform execution server (For Azure Cloud) 
-    - [Installaion Documentation](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
+    - [Installation Documentation](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
 - Need to aws cli install in terraform execution server (For AWS Cloud)
 - Need to aliyun cli install in terraform execution server (For Alibaba Cloud)
 
