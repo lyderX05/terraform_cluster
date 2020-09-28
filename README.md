@@ -1,6 +1,6 @@
 # Terraform Azure/AWS/Alibaba Customizable Module
 
-This module allow to verify the resource exits if, yes so nothing is created otherwise create the resource.
+This module allow to verify the resource exits if yes so nothing is created otherwise create the resource.
 
 Prerequistes:
 - Need to azure cli install in terraform execution server (For Azure Cloud) 
